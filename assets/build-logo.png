@@ -3,3 +3,8 @@ build-website/
 ├── style.css
 └── assets/
     └── build-logo.png
+
+
+
+
+<img src="assets/build-logo.png" alt="$BUILD Logo" />
